@@ -1,5 +1,6 @@
-/// @DnDAction : YoYo Games.Movement.Set_Friction
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 317D66B4
-/// @DnDArgument : "friction" ".1"
-friction = .1;
+/// @DnDHash : 5E707A63
+/// @DnDArgument : "expr" "16"
+/// @DnDArgument : "var" "spd"
+spd = 16;
