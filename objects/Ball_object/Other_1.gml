@@ -1,12 +1,12 @@
 /// @DnDAction : YoYo Games.Movement.Reverse
 /// @DnDVersion : 1
-/// @DnDHash : 6E372D15
+/// @DnDHash : 21C654D8
 /// @DnDArgument : "dir" "2"
 vspeed = -vspeed;
 
 /// @DnDAction : YoYo Games.Movement.Add_Motion
 /// @DnDVersion : 1
-/// @DnDHash : 70E6F61F
+/// @DnDHash : 7DCD8D8E
 /// @DnDArgument : "dir" "direction"
 /// @DnDArgument : "speed" ".5"
 motion_add(direction, .5);
