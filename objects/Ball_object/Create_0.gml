@@ -2,8 +2,9 @@
 /// @DnDVersion : 1
 /// @DnDHash : 3BBE9E1C
 /// @DnDArgument : "expr" "10"
+/// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "speed"
-speed = 10;
+speed += 10;
 
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1
