@@ -12,3 +12,15 @@ with(Obj_Game) {
 alarm_set(0, 30);
 
 }
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 37411ADE
+/// @DnDApplyTo : {Obj_Game}
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "score_p2"
+with(Obj_Game) {
+score_p2 += 1;
+
+}

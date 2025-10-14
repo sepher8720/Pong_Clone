@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Drawing.Draw_Line
+/// @DnDVersion : 1
+/// @DnDHash : 12B8C9B2
+/// @DnDArgument : "x1" "512"
+/// @DnDArgument : "x2" "512"
+/// @DnDArgument : "y2" "512"
+draw_line(512, 0, 512, 512);
+
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 7F4C0F7C

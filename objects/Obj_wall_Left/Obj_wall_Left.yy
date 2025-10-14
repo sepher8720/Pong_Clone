@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_wall_RL",
+  "%Name":"Obj_wall_Left",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Ball_object","path":"objects/Ball_object/Ball_object.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_wall_RL",
+  "name":"Obj_wall_Left",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_wall_RL",
-    "path":"sprites/Spr_wall_RL/Spr_wall_RL.yy",
+    "name":"Spr_wall_Left",
+    "path":"sprites/Spr_wall_Left/Spr_wall_Left.yy",
   },
   "spriteMaskId":null,
   "visible":true,
