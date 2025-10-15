@@ -17,6 +17,6 @@ with(other) motion_add(direction, .5);
 /// @DnDVersion : 1.1
 /// @DnDHash : 7D12726E
 /// @DnDArgument : "soundid" "Snd_paddle"
-/// @DnDArgument : "gain" ".5"
+/// @DnDArgument : "gain" ".75"
 /// @DnDSaveInfo : "soundid" "Snd_paddle"
-audio_play_sound(Snd_paddle, 0, 0, .5, undefined, 1.0);
+audio_play_sound(Snd_paddle, 0, 0, .75, undefined, 1.0);

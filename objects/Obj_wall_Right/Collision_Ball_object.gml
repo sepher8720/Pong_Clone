@@ -1,3 +1,12 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 5E13C6BF
+/// @DnDArgument : "soundid" "Snd_score"
+/// @DnDArgument : "gain" ".5"
+/// @DnDArgument : "pitch" ".8"
+/// @DnDSaveInfo : "soundid" "Snd_score"
+audio_play_sound(Snd_score, 0, 0, .5, undefined, .8);
+
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 5D4B9979
