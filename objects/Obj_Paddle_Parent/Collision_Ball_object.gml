@@ -12,3 +12,11 @@ with(other) hspeed = -hspeed;
 /// @DnDArgument : "dir" "direction"
 /// @DnDArgument : "speed" ".5"
 with(other) motion_add(direction, .5);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 7D12726E
+/// @DnDArgument : "soundid" "Snd_paddle"
+/// @DnDArgument : "gain" ".5"
+/// @DnDSaveInfo : "soundid" "Snd_paddle"
+audio_play_sound(Snd_paddle, 0, 0, .5, undefined, 1.0);

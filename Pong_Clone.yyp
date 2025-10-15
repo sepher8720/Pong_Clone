@@ -44,6 +44,8 @@
     {"id":{"name":"Obj_wall_Right","path":"objects/Obj_wall_Right/Obj_wall_Right.yy",},},
     {"id":{"name":"Obj_wall_UD","path":"objects/Obj_wall_UD/Obj_wall_UD.yy",},},
     {"id":{"name":"Play_Field","path":"rooms/Play_Field/Play_Field.yy",},},
+    {"id":{"name":"Snd_ball","path":"sounds/Snd_ball/Snd_ball.yy",},},
+    {"id":{"name":"Snd_paddle","path":"sounds/Snd_paddle/Snd_paddle.yy",},},
     {"id":{"name":"Ball_sprite","path":"sprites/Ball_sprite/Ball_sprite.yy",},},
     {"id":{"name":"Spr_Paddle_Blue","path":"sprites/Spr_Paddle_Blue/Spr_Paddle_Blue.yy",},},
     {"id":{"name":"Spr_Paddle_Red","path":"sprites/Spr_Paddle_Red/Spr_Paddle_Red.yy",},},
